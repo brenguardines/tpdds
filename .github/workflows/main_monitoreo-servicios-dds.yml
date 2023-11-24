@@ -50,4 +50,4 @@ jobs:
           app-name: 'monitoreo-servicios-dds'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A97324EC0A943B1859F1EE4D3D803AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C28E2364288C4DEBACD6052510BE30D5 }}
